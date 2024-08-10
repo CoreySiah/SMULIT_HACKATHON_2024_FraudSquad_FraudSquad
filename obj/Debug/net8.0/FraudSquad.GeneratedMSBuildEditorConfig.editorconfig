@@ -9,51 +9,51 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = FraudSquad
 build_property.RootNamespace = FraudSquad
-build_property.ProjectDir = C:\Users\calvi\Downloads\FraudSquad-MostUpdated\FraudSquad-MostUpdated\
+build_property.ProjectDir = C:\Users\corey\OneDrive\Documents\GitHub\SMULIT_HACKATHON_2024_FraudSquad_FraudSquad\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\calvi\Downloads\FraudSquad-MostUpdated\FraudSquad-MostUpdated
+build_property.MSBuildProjectDirectory = C:\Users\corey\OneDrive\Documents\GitHub\SMULIT_HACKATHON_2024_FraudSquad_FraudSquad
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/calvi/Downloads/FraudSquad-MostUpdated/FraudSquad-MostUpdated/Views/Home/Appeal.cshtml]
+[C:/Users/corey/OneDrive/Documents/GitHub/SMULIT_HACKATHON_2024_FraudSquad_FraudSquad/Views/Home/Appeal.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxBcHBlYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/calvi/Downloads/FraudSquad-MostUpdated/FraudSquad-MostUpdated/Views/Home/Index.cshtml]
+[C:/Users/corey/OneDrive/Documents/GitHub/SMULIT_HACKATHON_2024_FraudSquad_FraudSquad/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/calvi/Downloads/FraudSquad-MostUpdated/FraudSquad-MostUpdated/Views/Home/Privacy.cshtml]
+[C:/Users/corey/OneDrive/Documents/GitHub/SMULIT_HACKATHON_2024_FraudSquad_FraudSquad/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/calvi/Downloads/FraudSquad-MostUpdated/FraudSquad-MostUpdated/Views/Home/Report.cshtml]
+[C:/Users/corey/OneDrive/Documents/GitHub/SMULIT_HACKATHON_2024_FraudSquad_FraudSquad/Views/Home/Report.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxSZXBvcnQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/calvi/Downloads/FraudSquad-MostUpdated/FraudSquad-MostUpdated/Views/Home/Sites.cshtml]
+[C:/Users/corey/OneDrive/Documents/GitHub/SMULIT_HACKATHON_2024_FraudSquad_FraudSquad/Views/Home/Sites.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxTaXRlcy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/calvi/Downloads/FraudSquad-MostUpdated/FraudSquad-MostUpdated/Views/Shared/Error.cshtml]
+[C:/Users/corey/OneDrive/Documents/GitHub/SMULIT_HACKATHON_2024_FraudSquad_FraudSquad/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/calvi/Downloads/FraudSquad-MostUpdated/FraudSquad-MostUpdated/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/corey/OneDrive/Documents/GitHub/SMULIT_HACKATHON_2024_FraudSquad_FraudSquad/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/calvi/Downloads/FraudSquad-MostUpdated/FraudSquad-MostUpdated/Views/_ViewImports.cshtml]
+[C:/Users/corey/OneDrive/Documents/GitHub/SMULIT_HACKATHON_2024_FraudSquad_FraudSquad/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/calvi/Downloads/FraudSquad-MostUpdated/FraudSquad-MostUpdated/Views/_ViewStart.cshtml]
+[C:/Users/corey/OneDrive/Documents/GitHub/SMULIT_HACKATHON_2024_FraudSquad_FraudSquad/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/calvi/Downloads/FraudSquad-MostUpdated/FraudSquad-MostUpdated/Views/Shared/_Layout.cshtml]
+[C:/Users/corey/OneDrive/Documents/GitHub/SMULIT_HACKATHON_2024_FraudSquad_FraudSquad/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-ui9bmv78w3

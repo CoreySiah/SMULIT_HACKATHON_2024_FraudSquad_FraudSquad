@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\calvi\\Downloads\\FraudSquad-MostUpdated\\FraudSquad-MostUpdated\\FraudSquad.csproj": {}
+    "C:\\Users\\corey\\OneDrive\\Documents\\GitHub\\SMULIT_HACKATHON_2024_FraudSquad_FraudSquad\\FraudSquad.csproj": {}
   },
   "projects": {
-    "c:\\Users\\calvi\\Downloads\\FraudSquad-MostUpdated\\FraudSquad-MostUpdated\\FraudSquad.csproj": {
+    "C:\\Users\\corey\\OneDrive\\Documents\\GitHub\\SMULIT_HACKATHON_2024_FraudSquad_FraudSquad\\FraudSquad.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\calvi\\Downloads\\FraudSquad-MostUpdated\\FraudSquad-MostUpdated\\FraudSquad.csproj",
+        "projectUniqueName": "C:\\Users\\corey\\OneDrive\\Documents\\GitHub\\SMULIT_HACKATHON_2024_FraudSquad_FraudSquad\\FraudSquad.csproj",
         "projectName": "FraudSquad",
-        "projectPath": "c:\\Users\\calvi\\Downloads\\FraudSquad-MostUpdated\\FraudSquad-MostUpdated\\FraudSquad.csproj",
-        "packagesPath": "C:\\Users\\calvi\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\calvi\\Downloads\\FraudSquad-MostUpdated\\FraudSquad-MostUpdated\\obj\\",
+        "projectPath": "C:\\Users\\corey\\OneDrive\\Documents\\GitHub\\SMULIT_HACKATHON_2024_FraudSquad_FraudSquad\\FraudSquad.csproj",
+        "packagesPath": "C:\\Users\\corey\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\corey\\OneDrive\\Documents\\GitHub\\SMULIT_HACKATHON_2024_FraudSquad_FraudSquad\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\calvi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\corey\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -77,7 +77,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
