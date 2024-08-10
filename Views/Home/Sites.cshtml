@@ -1,0 +1,35 @@
+﻿@model List<string>
+
+@{
+    ViewData["Title"] = "Blacklisted Sites";
+}
+
+<body class="site-body">
+    <p class="heading">Blacklisted Sites</p>
+    <p class="heading-secondary">FraudSquad highly recommends against visitng the following sites</p>
+    <p class="heading-secondary">If you'd like to submit an appeal for any of these sites, please use the appeal page</p>
+    <table class="table table-striped">
+        <thead>
+            <tr>
+                <th scope="col">URL</th>
+            </tr>
+        </thead>
+        <tbody>
+            @if (Model != null && Model.Any())
+            {
+                foreach (var url in Model)
+                {
+                    <tr>
+                        <td>@url</td>
+                    </tr>
+                }
+            }
+            else
+            {
+                <tr>
+                    <td>No blacklisted sites found.</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</body>

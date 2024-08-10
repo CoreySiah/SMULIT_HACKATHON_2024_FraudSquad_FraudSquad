@@ -1,0 +1,39 @@
+{
+    "manifest_version": 2,
+    "name": "phishing_blocker",
+    "version": "1.0.0",
+    "description": "Phishing Blocker extension",
+    "icons": {
+        "16": "icons/icon16.png",
+        "48": "icons/icon48.png",
+        "128": "icons/icon128.png"
+    },
+    "content_scripts": [
+        {
+            "matches": [
+                "https://facebook.com/*",
+                "https://scammer.com/*",
+                "https://reddit.formula1stream.cc/*",
+                "https://www.scamadviser.com/*",
+                "https://www.geeksforgeeks.org/*",
+                "https://www.scammer.com/*",
+                "https://google.com/*",
+                "https://www.aibgroups.org.sebgroup.online/*",
+                "http://www.e-dosyabul.com/*",
+                "https://lnky.ru/*",
+                "http://videolucahvirall.msge2.my.id/*",
+                "http://anmilopbe.blogspot.mk/*",
+                "http://private-ch4t.pages.dev/*",
+                "https://private-ch4t.pages.dev/*",
+                "https://private-ch4t.pages.dev/*https://discord.8191391.xyz/*",
+                "https://discord.8191391.xyz/*"
+            ],
+            "js": [
+                "js/popup.js"
+            ],
+            "css": [
+                "css/style.css"
+            ]
+        }
+    ]
+}

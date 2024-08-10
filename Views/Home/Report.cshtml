@@ -1,0 +1,83 @@
+﻿@model FraudSquad.Models.Report
+
+@{
+    ViewData["Title"] = "Report";
+}
+
+<body class="report-form">
+    <p class="heading">File a Report</p>
+    <form class="cta-form" asp-action="Report" method="post">
+      <div>
+        <label for="full-name">Name:</label>
+        <input id="full-name" name="Name" type="text" required />
+      </div>
+      <div>
+        <label for="id">ID number (NRIC):</label>
+        <input id="id" name="ID" type="text" required />
+      </div>
+      <div>
+        <label for="sex">Sex:</label>
+        <select id="sex-select" name="Sex" required>
+          <option value="">Please choose one option:</option>
+          <option value="Male">Male</option>
+          <option value="Female">Female</option>
+          <option value="Prefer not to say">Prefer not to say</option>
+        </select>
+      </div>
+      <div>
+        <label for="DOB">Date of Birth:</label>
+        <input id="DOB" name="DOB" type="date" required />
+      </div>
+      <div>
+        <label for="email">Email:</label>
+        <input type="email" id="email" name="Email" required />
+      </div>
+      <div>
+        <label for="phone">Contact number:</label>
+        <input type="tel" id="phone" name="Phone" required />
+      </div>
+      <div>
+        <label for="race">Race:</label>
+        <input id="race" name="Race" type="text" required />
+      </div>
+      <div>
+        <label for="nationality">Nationality:</label>
+        <input id="nationality" name="Nationality" type="text" required />
+      </div>
+      <div>
+        <label for="occupation">Occupation:</label>
+        <input id="occupation" name="Occupation" type="text" required />
+      </div>
+      <div>
+        <label for="postal-code">Postal Code:</label>
+        <input id="postal-code" name="PostalCode" type="text" required />
+      </div>
+      <div>
+        <label for="block-house-number">Block/House number:</label>
+        <input id="block-house-number" name="BlockHouseNumber" type="text" required />
+      </div>
+      <div>
+        <label for="street">Street:</label>
+        <input id="street" name="Street" type="text" required />
+      </div>
+      <div>
+        <label for="building">Building:</label>
+        <input id="building" name="Building" type="text" required />
+      </div>
+      <div>
+        <label for="floor-unit">Floor-unit:</label>
+        <input id="floor-unit" name="FloorUnit" type="text" required />
+      </div>
+      <div>
+        <label for="scam-description">Scam description:</label>
+        <textarea id="scam-description" name="ScamDescription" rows="10" cols="100">Briefly describe the scam you faced.</textarea>
+      </div>
+      <div>
+        <label for="webpage_b">URL:</label>
+        <input id="webpage_b" name="URL" type="url" />
+      </div>
+      <div>
+        <button type="submit" class="btn btn--form">Submit Report</button>
+      </div>
+    </form>
+</body>
